@@ -1,4 +1,4 @@
-package org.lsposed.lspatch
+package org.lsposed.webView
 
 import android.app.Application
 import android.content.Context
