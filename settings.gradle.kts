@@ -29,7 +29,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LSPatch"
+rootProject.name = "Google Web view"
 include(
     ":apkzlib",
     ":core",
